@@ -1,0 +1,11 @@
+STC12C5A60S2
+	工作电压：5.5~3.5V
+	程序空间：60K
+	SRAM：1280
+	EEPROM:1K
+	定时器：4个
+	串口：2个
+	ADC:8*10位
+	PWM/PCA/CCP/DAC:2位
+	SPI
+	
